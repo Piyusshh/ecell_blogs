@@ -152,6 +152,225 @@
     <div class="blog-card jumbotron p-4 p-md-5 text-black rounded bg-light">
       <div class="row">
         <div class="col-md-5">
+          <!-- <img class="blog-image" alt="cat and dog" src="https://cdn.pixabay.com/photo/2016/01/19/17/41/friends-1149841_960_720.jpg"> -->
+          <img class="blog-image" alt="cat and dog" src="blog/img/fundingg-02.jpg">
+        </div>
+
+        <div class="blog-desc col-md-7 ml-auto my-auto pt-lg-0 pt-4">
+          <div class="row">
+            <div class="col-10">
+              <figure class="article-footer">
+                <img class="profile-photo" src="blog/img/writer/vipashvi.jpg" alt="author-Michelle's profile">
+                <figcaption>
+                  <p>Vipashvi<br>
+                    <time datetime="2020-12-20">20th December, 2020</time>
+                  </p>
+                </figcaption>
+              </figure>
+            </div>
+            <div class="col-2 share-button">
+              <button type="button" class="btn btn-outline-dark" data-toggle="modal" data-target="#share_post">
+                <i class="fas fa-share"></i>
+              </button>
+            </div>
+          </div>
+
+          <!---------------------------- SHARE ICON Start ------------------------------->
+
+          <!-- Button trigger modal -->
+
+          <div class="modal fade" id="share_post" tabindex="-1" aria-labelledby="share_post_label" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <!-- <div class="share-btn-container container"> -->
+                  <div class="sharable-content">
+
+                    <a href="#" class="facebook-btn">
+                      <i class="fab fa-facebook"></i>
+                    </a>
+
+                    <a href="#" class="twitter-btn">
+                      <i class="fab fa-twitter"></i>
+                    </a>
+
+                    <a href="#" class="pinterest-btn">
+                      <i class="fab fa-pinterest"></i>
+                    </a>
+
+                    <a href="#" class="linkedin-btn">
+                      <i class="fab fa-linkedin"></i>
+                    </a>
+
+                    <a href="#" class="whatsapp-btn">
+                      <i class="fab fa-whatsapp"></i>
+                    </a>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!------------------------------Share Icon End---------------------------->
+          <a href="blog/startup-funding.php">
+            <h1 class="display-4">Startup Funding</h1>
+          </a>
+          <p class="lead my-3">The biggest question that comes to the mind of an entrepreneur (be it a professional or an amature one) is : “How do I get funding for my idea?”. Before we answer that,let’s understand the meaning of “funding”.Funding refers to the money required to start and...</p>
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="blog-card jumbotron p-4 p-md-5 text-black rounded bg-light">
+      <div class="row">
+        <div class="col-md-5">
+          <!-- <img class="blog-image" alt="cat and dog" src="https://cdn.pixabay.com/photo/2016/01/19/17/41/friends-1149841_960_720.jpg"> -->
+          <img class="blog-image" alt="cat and dog" src="blog/img/alumni page-02.jpg">
+        </div>
+
+        <div class="blog-desc col-md-7 ml-auto my-auto pt-lg-0 pt-4">
+          <div class="row">
+            <div class="col-10">
+              <figure class="article-footer">
+                <img src="blog/img/writer/rashmi.jpg" class="profile-photo">
+                <figcaption>
+                  <p>Rashmi Hegde<br>
+                    <time datetime="2020-12-20">20th December, 2020</time>
+                  </p>
+                </figcaption>
+              </figure>
+            </div>
+            <div class="col-2 share-button">
+              <button type="button" class="btn btn-outline-dark" data-toggle="modal" data-target="#share_post">
+                <i class="fas fa-share"></i>
+              </button>
+            </div>
+          </div>
+
+          <!---------------------------- SHARE ICON Start ------------------------------->
+
+          <!-- Button trigger modal -->
+
+          <div class="modal fade" id="share_post" tabindex="-1" aria-labelledby="share_post_label" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <!-- <div class="share-btn-container container"> -->
+                  <div class="sharable-content">
+
+                    <a href="#" class="facebook-btn">
+                      <i class="fab fa-facebook"></i>
+                    </a>
+
+                    <a href="#" class="twitter-btn">
+                      <i class="fab fa-twitter"></i>
+                    </a>
+
+                    <a href="#" class="pinterest-btn">
+                      <i class="fab fa-pinterest"></i>
+                    </a>
+
+                    <a href="#" class="linkedin-btn">
+                      <i class="fab fa-linkedin"></i>
+                    </a>
+
+                    <a href="#" class="whatsapp-btn">
+                      <i class="fab fa-whatsapp"></i>
+                    </a>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!------------------------------Share Icon End---------------------------->
+          <a href="blog/Recipe-for-BMC.php">
+            <h1 class="display-4">Recipe For BMC</h1>
+          </a>
+          <p class="lead my-3">Still pondering on how/why/what about your Business Model Canvas. Why not consider cooking one for yourself? One can add their own flavours to anything to give the desired taste. Scale your ideas,blend them properly and finally bake them suitably...</p>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="blog-card jumbotron p-4 p-md-5 text-black rounded bg-light">
+      <div class="row">
+        <div class="col-md-5">
+          <!-- <img class="blog-image" alt="cat and dog" src="https://cdn.pixabay.com/photo/2016/01/19/17/41/friends-1149841_960_720.jpg"> -->
+          <img class="blog-image" alt="cat and dog" src="blog/img/culturee-02.jpg">
+        </div>
+
+        <div class="blog-desc col-md-7 ml-auto my-auto pt-lg-0 pt-4">
+          <div class="row">
+            <div class="col-10">
+              <figure class="article-footer">
+                <img src="blog/img/writer/saransh.jpg" class="profile-photo">
+                <figcaption>
+                  <p>Saransh Mittal<br>
+                    <time datetime="2020-12-20">20th December, 2020</time>
+                  </p>
+                </figcaption>
+              </figure>
+            </div>
+            <div class="col-2 share-button">
+              <button type="button" class="btn btn-outline-dark" data-toggle="modal" data-target="#share_post">
+                <i class="fas fa-share"></i>
+              </button>
+            </div>
+          </div>
+
+          <!---------------------------- SHARE ICON Start ------------------------------->
+
+          <!-- Button trigger modal -->
+
+          <div class="modal fade" id="share_post" tabindex="-1" aria-labelledby="share_post_label" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <!-- <div class="share-btn-container container"> -->
+                  <div class="sharable-content">
+
+                    <a href="#" class="facebook-btn">
+                      <i class="fab fa-facebook"></i>
+                    </a>
+
+                    <a href="#" class="twitter-btn">
+                      <i class="fab fa-twitter"></i>
+                    </a>
+
+                    <a href="#" class="pinterest-btn">
+                      <i class="fab fa-pinterest"></i>
+                    </a>
+
+                    <a href="#" class="linkedin-btn">
+                      <i class="fab fa-linkedin"></i>
+                    </a>
+
+                    <a href="#" class="whatsapp-btn">
+                      <i class="fab fa-whatsapp"></i>
+                    </a>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!------------------------------Share Icon End---------------------------->
+          <a href="blog/trends-in-startup-culturee.php">
+            <h1 class="display-4">Trends in Startup Culture</h1>
+          </a>
+          <p class="lead my-3">A lot of new startup founders struggle to devote time to define their culture from the beginning, only to come to the sad realization that trends in culture certainly have an impact on the operational side of business. Seasoned founders and CEOs who believe...</p>
+
+        </div>
+      </div>
+    </div>
+    <div class="blog-card jumbotron p-4 p-md-5 text-black rounded bg-light">
+      <div class="row">
+        <div class="col-md-5">
           <!-- <img class="blog-image" alt="cat" src="https://cdn.pixabay.com/photo/2017/11/09/21/41/cat-2934720_960_720.jpg"> -->
           <img class="blog-image" alt="cat" src="blog/img/b-1.jpg">
         </div>
@@ -365,227 +584,6 @@
             <h1 class="display-4">Skill to Success</h1>
           </a>
           <p class="lead my-3">Eruption of joy at the fall of an Indian wicket in India can mean only one thing- these were the words spoken by Harsha Bhogle as Tendulkar walked down the stands to bat , but let’s go a few years back when he started his career, people rarely remember that, as...</p>
-
-        </div>
-      </div>
-    </div>
-
-
-    <div class="blog-card jumbotron p-4 p-md-5 text-black rounded bg-light">
-      <div class="row">
-        <div class="col-md-5">
-          <!-- <img class="blog-image" alt="cat and dog" src="https://cdn.pixabay.com/photo/2016/01/19/17/41/friends-1149841_960_720.jpg"> -->
-          <img class="blog-image" alt="cat and dog" src="blog/img/fundingg-02.jpg">
-        </div>
-
-        <div class="blog-desc col-md-7 ml-auto my-auto pt-lg-0 pt-4">
-          <div class="row">
-            <div class="col-10">
-              <figure class="article-footer">
-                <img class="profile-photo" src="blog/img/writer/vipashvi.jpg" alt="author-Michelle's profile">
-                <figcaption>
-                  <p>Vipashvi<br>
-                    <time datetime="2020-12-20">20th December, 2020</time>
-                  </p>
-                </figcaption>
-              </figure>
-            </div>
-            <div class="col-2 share-button">
-              <button type="button" class="btn btn-outline-dark" data-toggle="modal" data-target="#share_post">
-                <i class="fas fa-share"></i>
-              </button>
-            </div>
-          </div>
-
-          <!---------------------------- SHARE ICON Start ------------------------------->
-
-          <!-- Button trigger modal -->
-
-          <div class="modal fade" id="share_post" tabindex="-1" aria-labelledby="share_post_label" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered">
-              <div class="modal-content">
-                <div class="modal-body">
-                  <!-- <div class="share-btn-container container"> -->
-                  <div class="sharable-content">
-
-                    <a href="#" class="facebook-btn">
-                      <i class="fab fa-facebook"></i>
-                    </a>
-
-                    <a href="#" class="twitter-btn">
-                      <i class="fab fa-twitter"></i>
-                    </a>
-
-                    <a href="#" class="pinterest-btn">
-                      <i class="fab fa-pinterest"></i>
-                    </a>
-
-                    <a href="#" class="linkedin-btn">
-                      <i class="fab fa-linkedin"></i>
-                    </a>
-
-                    <a href="#" class="whatsapp-btn">
-                      <i class="fab fa-whatsapp"></i>
-                    </a>
-                  </div>
-
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!------------------------------Share Icon End---------------------------->
-          <a href="blog/startup-funding.php">
-            <h1 class="display-4">Startup Funding</h1>
-          </a>
-          <p class="lead my-3">The biggest question that comes to the mind of an entrepreneur (be it a professional or an amature one) is : “How do I get funding for my idea?”. Before we answer that,let’s understand the meaning of “funding”.Funding refers to the money required to start and...</p>
-
-        </div>
-      </div>
-    </div>
-
-
-    <div class="blog-card jumbotron p-4 p-md-5 text-black rounded bg-light">
-      <div class="row">
-        <div class="col-md-5">
-          <!-- <img class="blog-image" alt="cat and dog" src="https://cdn.pixabay.com/photo/2016/01/19/17/41/friends-1149841_960_720.jpg"> -->
-          <img class="blog-image" alt="cat and dog" src="blog/img/alumni page-02.jpg">
-        </div>
-
-        <div class="blog-desc col-md-7 ml-auto my-auto pt-lg-0 pt-4">
-          <div class="row">
-            <div class="col-10">
-              <figure class="article-footer">
-                <img src="blog/img/writer/rashmi.jpg" class="profile-photo">
-                <figcaption>
-                  <p>Rashmi Hegde<br>
-                    <time datetime="2020-12-20">20th December, 2020</time>
-                  </p>
-                </figcaption>
-              </figure>
-            </div>
-            <div class="col-2 share-button">
-              <button type="button" class="btn btn-outline-dark" data-toggle="modal" data-target="#share_post">
-                <i class="fas fa-share"></i>
-              </button>
-            </div>
-          </div>
-
-          <!---------------------------- SHARE ICON Start ------------------------------->
-
-          <!-- Button trigger modal -->
-
-          <div class="modal fade" id="share_post" tabindex="-1" aria-labelledby="share_post_label" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered">
-              <div class="modal-content">
-                <div class="modal-body">
-                  <!-- <div class="share-btn-container container"> -->
-                  <div class="sharable-content">
-
-                    <a href="#" class="facebook-btn">
-                      <i class="fab fa-facebook"></i>
-                    </a>
-
-                    <a href="#" class="twitter-btn">
-                      <i class="fab fa-twitter"></i>
-                    </a>
-
-                    <a href="#" class="pinterest-btn">
-                      <i class="fab fa-pinterest"></i>
-                    </a>
-
-                    <a href="#" class="linkedin-btn">
-                      <i class="fab fa-linkedin"></i>
-                    </a>
-
-                    <a href="#" class="whatsapp-btn">
-                      <i class="fab fa-whatsapp"></i>
-                    </a>
-                  </div>
-
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!------------------------------Share Icon End---------------------------->
-          <a href="blog/Recipe-for-BMC.php">
-            <h1 class="display-4">Recipe For BMC</h1>
-          </a>
-          <p class="lead my-3">Still pondering on how/why/what about your Business Model Canvas. Why not consider cooking one for yourself? One can add their own flavours to anything to give the desired taste. Scale your ideas,blend them properly and finally bake them suitably...</p>
-
-        </div>
-      </div>
-    </div>
-
-    <div class="blog-card jumbotron p-4 p-md-5 text-black rounded bg-light">
-      <div class="row">
-        <div class="col-md-5">
-          <!-- <img class="blog-image" alt="cat and dog" src="https://cdn.pixabay.com/photo/2016/01/19/17/41/friends-1149841_960_720.jpg"> -->
-          <img class="blog-image" alt="cat and dog" src="blog/img/culturee-02.jpg">
-        </div>
-
-        <div class="blog-desc col-md-7 ml-auto my-auto pt-lg-0 pt-4">
-          <div class="row">
-            <div class="col-10">
-              <figure class="article-footer">
-                <img src="blog/img/writer/saransh.jpg" class="profile-photo">
-                <figcaption>
-                  <p>Saransh Mittal<br>
-                    <time datetime="2020-12-20">20th December, 2020</time>
-                  </p>
-                </figcaption>
-              </figure>
-            </div>
-            <div class="col-2 share-button">
-              <button type="button" class="btn btn-outline-dark" data-toggle="modal" data-target="#share_post">
-                <i class="fas fa-share"></i>
-              </button>
-            </div>
-          </div>
-
-          <!---------------------------- SHARE ICON Start ------------------------------->
-
-          <!-- Button trigger modal -->
-
-          <div class="modal fade" id="share_post" tabindex="-1" aria-labelledby="share_post_label" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered">
-              <div class="modal-content">
-                <div class="modal-body">
-                  <!-- <div class="share-btn-container container"> -->
-                  <div class="sharable-content">
-
-                    <a href="#" class="facebook-btn">
-                      <i class="fab fa-facebook"></i>
-                    </a>
-
-                    <a href="#" class="twitter-btn">
-                      <i class="fab fa-twitter"></i>
-                    </a>
-
-                    <a href="#" class="pinterest-btn">
-                      <i class="fab fa-pinterest"></i>
-                    </a>
-
-                    <a href="#" class="linkedin-btn">
-                      <i class="fab fa-linkedin"></i>
-                    </a>
-
-                    <a href="#" class="whatsapp-btn">
-                      <i class="fab fa-whatsapp"></i>
-                    </a>
-                  </div>
-
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!------------------------------Share Icon End---------------------------->
-          <a href="blog/trends-in-startup-culturee.php">
-            <h1 class="display-4">Trends in Startup Culture</h1>
-          </a>
-          <p class="lead my-3">A lot of new startup founders struggle to devote time to define their culture from the beginning, only to come to the sad realization that trends in culture certainly have an impact on the operational side of business. Seasoned founders and CEOs who believe...</p>
 
         </div>
       </div>

@@ -148,7 +148,7 @@
             3. Partnership: A very witty move, if you can find just the right business partner for scaling up your business.But be careful, the risk involved here is very high.</br></br>
             CONCLUSION</br>
             The answer to our question is; To get your startup funded you should inspect it at each and every step and make a detailed plan of where and how you are going to use these funds. Be ready with a detailed business plan, and simply follow the steps we have listed for you !!</br></br>
-            REFERENCE</br><a href = https://www.startupindia.gov.in/content/sih/en/looking_for_funding.html>www.startupindia.gov.in/content/sih/en/looking_for_funding</a></br>    
+              
             </div>
 			<!-- Editor's Column-->
 			<br>
