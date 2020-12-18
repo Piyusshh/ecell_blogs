@@ -94,7 +94,7 @@
         <!--Mask color-->
         <div class="view">
           <!-- <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(6).jpg" alt="Second slide"> -->
-          <a href="blog/Skill-to-success.php">
+          <a href="blog/startup-funding.php">
           <img class="d-block w-100" src="blog/img/funding-02.jpg" alt="Second slide">
             </a>
           <div class="mask rgba-black-strong"></div>
@@ -105,7 +105,7 @@
           <p class = "text-left mt-1 d-lg-block d-md-block d-sm-none desktop-only">The biggest question that comes to the mind of an entrepreneur (be it a professional or an amature one) is : “How do I get funding for my idea?”.Before we answer that,let’s understand the meaning of “funding”.Funding refers to  the money required to start and run a business. It is a financial investment in a company which is used for almost every aspect of the working of an idea, beginning</br>
           <a href = "blog/startup-funding.php">Read more</a></p>
           <p class = "text-left mt-1 d-none d-sm-block d-md-none d-xl-none mobile-only">The biggest question that comes to the mind of an entrepreneur (be it a professional or an amature one) is : “How do I get funding for my idea?”.Before we answer that...</br>
-          <a href = "blog/Skill-to-success.php">Read more</a></p>
+          <a href = "blog/startup-funding.php">Read more</a></p>
 
         </div>
       </div>
@@ -113,17 +113,17 @@
         <!--Mask color-->
         <div class="view">
           <!-- <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(9).jpg" alt="Third slide"> -->
-          <a href="blog/techno-and-e-ship.php">
+          <a href="blog/Recipe-for-BMC.php">
           <img class="d-block w-100" src="blog/img/bmc-02.jpg" alt="Third slide">
         </a>
           <div class="mask rgba-black-slight"></div>
         </div>
         <div class="carousel-caption c2">
-          <h3 class="h3-responsive text-left mt-0"><a href="blog/techno-and-e-ship.php">Receipe For BMC</a></h3>
+          <h3 class="h3-responsive text-left mt-0"><a href="blog/Recipe-for-BMC.php">Receipe For BMC</a></h3>
           <p class = "text-left mt-1 d-lg-block d-md-block d-sm-none desktop-only">Still pondering on how/why/what about your Business Model Canvas. Why not consider cooking one for yourself? One can add their own flavours to anything to give the desired taste. Scale your ideas, blend them properly and finally bake them suitably. What is a BMC? BMC stands for Business Model Canvas. Business Model Canvas is a strategic management and lean startup template for developing</br>
-          <a href = "blog/techno-and-e-ship.php">Read more</a></p>
+          <a href = "blog/Recipe-for-BMC.php">Read more</a></p>
           <p class = "text-left mt-1 d-lg-none d-sm-block d-md-none d-xl-none mobile-only">Still pondering on how/why/what about your Business Model Canvas. Why not consider cooking one for yourself? One can add their own flavours to anything to give ...</br>
-          <a href = "blog/techno-and-e-ship.php">Read more</a></p>
+          <a href = "blog/Recipe-for-BMC.php">Read more</a></p>
           </div>
 
         </div>
@@ -458,7 +458,7 @@
               <figure class="article-footer">
                 <img src="blog/img/writer/rashmi.jpg" class="profile-photo">
                 <figcaption>
-                  <p>Rashmi Hedge<br>
+                  <p>Rashmi Hegde<br>
                     <time datetime="2020-12-20">20th December, 2020</time>
                   </p>
                 </figcaption>
@@ -509,8 +509,8 @@
           </div>
 
           <!------------------------------Share Icon End---------------------------->
-          <a href="blog/Skill-to-success.php">
-            <h1 class="display-4">Receipe For BMC</h1>
+          <a href="blog/Recipe-for-BMC.php">
+            <h1 class="display-4">Recipe For BMC</h1>
           </a>
           <p class="lead my-3">Still pondering on how/why/what about your Business Model Canvas. Why not consider cooking one for yourself? One can add their own flavours to anything to give the desired taste. Scale your ideas,blend them properly and finally bake them suitably...</p>
 

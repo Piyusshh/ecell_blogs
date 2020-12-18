@@ -78,7 +78,7 @@
 		<div id="head"><span style="font-size: 22px; color: rgba(34, 193, 195, 1);"><i class="fas fa-calendar-alt"></i>  </span><time datetime="2020-08-27" id="date">20th December, 2020</time><br>Recipe To a Perfect BMC</div>
 	</div>
 	<div class="img">
-		<img src="img/b-2.jpg" title="" class="content-img">
+		<img src="img/alumni page-02.jpg" title="" class="content-img">
 	</div>
 	<div class="content">
 		<!-- Image related to content of blog -->
@@ -87,7 +87,7 @@
 			<hr class="hr">
 			<div class="author">
 				<!-- Author profile image Here -->
-				<img src="https://media-exp1.licdn.com/dms/image/C4E03AQHB1Dn-bE3b-w/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=yFjsnGO5h24Yy_DIy8D00B5JJEaUB1wCLVoGMC17lgI" class="profile-img">
+				<img src="img/writer/rashmi.jpg" class="profile-img">
 				<!-- Author Name -->
 				<p>Rashmi Hegde</p>
 				<!-- Linkedin Account Link -->
