@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<!-- displays site properly based on user's device -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Technology and Entrepreneurship</title>
+	<title>Startup Funding</title>
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
 
@@ -47,7 +47,7 @@
 <body>
 	<!--<header>
 		<?php /*include 'header.php';*/
-		?>
+				?>
 	</header>-->
 	<nav class="navbar navbar-dark navbar-expand-sm">
       <div class="container">
@@ -75,10 +75,10 @@
 	</div>
 	<div id="heading-of-blog">
 		<!-- Date and Heading of Blog here -->
-		<div id="head"><span style="font-size: 22px; color: rgba(34, 193, 195, 1);"><i class="fas fa-calendar-alt"></i>  </span><time datetime="2020-08-27" id="date">18th October, 2020</time><br>Technology and Entrepreneurship: The Unbeatable Combination</div>
+		<div id="head"><span style="font-size: 22px; color: rgba(34, 193, 195, 1);"><i class="fas fa-calendar-alt"></i>  </span><time datetime="2020-08-27" id="date">20th December, 2020</time><br>How to get your startup funded?</div>
 	</div>
 	<div class="img">
-		<img src="img/b-1.jpg" alt="Flower" title="" class="content-img">
+		<img src="img/fundingg-02.jpg" title="" class="content-img">
 	</div>
 	<div class="content">
 		<!-- Image related to content of blog -->
@@ -87,55 +87,69 @@
 			<hr class="hr">
 			<div class="author">
 				<!-- Author profile image Here -->
-				<img src="img/writer/rashmi.jpg" class="profile-img">
+				<img src="img/writer/vipashvi.jpg" class="profile-img">
 				<!-- Author Name -->
-				<p>Rashmi Hegde</p>
+				<p>Vipashvi Agnihotri</p>
 				<!-- Linkedin Account Link -->
-				<a href="https://www.linkedin.com/in/rashmi-hegde-1502b5148/" class="icon linkedin" title="LinkedIn" target="_blank">
+				<a href="https://www.linkedin.com/in/vipashvi-agnihotri-5619691b4/" class="icon linkedin" title="LinkedIn" target="_blank">
 					<svg viewBox="0 0 512 512">
 						<path
 							d="M186.4 142.4c0 19-15.3 34.5-34.2 34.5 -18.9 0-34.2-15.4-34.2-34.5 0-19 15.3-34.5 34.2-34.5C171.1 107.9 186.4 123.4 186.4 142.4zM181.4 201.3h-57.8V388.1h57.8V201.3zM273.8 201.3h-55.4V388.1h55.4c0 0 0-69.3 0-98 0-26.3 12.1-41.9 35.2-41.9 21.3 0 31.5 15 31.5 41.9 0 26.9 0 98 0 98h57.5c0 0 0-68.2 0-118.3 0-50-28.3-74.2-68-74.2 -39.6 0-56.3 30.9-56.3 30.9v-25.2H273.8z" />
 					</svg>
 				</a>
-				<!-- Quoted Text Here -->
-			<blockquote class="blockquote quote-text">
-				<i>"Believe in miracles, but do not rely on them."</i>
-			</blockquote>
-			<!--<div class="quote-auth">-Elon Musk</div>-->
-			<br><br>
-			<!-- <hr class="hr"> -->
 			</div>
-			<br><br>
-			<!-- Blog Content Here -->
+			<!-- Quoted Text Here -->
+			<blockquote class="blockquote quote-text">
+				<i>“ When looking for funding, don’t just look for cash. Look
+                for the right people”</i>
+			</blockquote>
+			<div class="quote-auth">-Jodie Fox (Founder of Shoes of Prey)</div>
 			<br>
 			<hr class="hr">
-
+			<!-- Blog Content Here -->
 			<div class="main-text">
-			Let us decode this, starting it raw. Technology is defined as the application of scientific knowledge for practical purposes in industries. Entrepreneurship is defined as the process of designing, launching and running a new business. Two different worlds, two different career paths but one motive-money, innovation and problem solving.<br><br>
-
-			Apart from engineering there are various other fields from where business students come. Talking about IIMs, 75% are from engineering background and among these 30-35% are from NITs and IITs i.e the best students in the field of technology. Well before moving further, let us look at some philosophical lines which one has surely encountered in his/her life:
-			<ul class="list-item">
-				<li class="list-text">“Failing is the stepping stone towards success.”</li>
-				<li class="list-text">“All our dreams can come true if we have the courage to pursue them.”</li>
-				<li class="list-text">“Knowledge without action is meaningless.”</li>
-			</ul>
-
-			Well, well sounds great right? But they are words said after achieving something and our meant to soothe our short term failures. When talking about real ideas, innovation, finance etc., who is the most eligible person to have these qualities? Yes, a technologist or better said an engineer. An engineer is well versed in technology than anybody else. He/She has problem solving qualities, ability to work during odd hours, find practical shortcuts to most tasks given and many more. Students from other field, have limited ideas for a new product. They can’t have an engine making company, drone designing company, application with artificial intelligence and machine learning, new chemicals for perfumes etc. unless they are dependent on someone. All their ideas can be implemented by engineers but not vice-versa.<br>
-
-			Accept it or not but marketing, communication skills, economics can be learned side by side. The rate at which the world is transforming, the technical demands can only be fulfilled by an Engineer-Entrepreneur. People who have ended up doing engineering are mostly not by choice. Many of them have joined just because of parental pressure. But on a very personal note I would like to add-now that you are a part of this, make the best use of this. Develop all the skills and sharpen them which the course offers, it is something which will definitely make you stand out. Innovate, think and stay updated. Although we are tagged as geeks, nerds, boring or tasteless, we can’t defy the fact that the world is interesting because of us. Social media, cars, buildings, vehicles, robots etc. it is we who have kept them alive in this society. Look at the potential we have. When we imagine a futuristic world we think of - robots all around, no-fuel vehicles, hi-tech appliances, personalised digital world, maybe compact devices etc. This is brought into picture by tech-freaks. And someone having good knowledge about this and he/she has entrepreneurial skills as well will surely make an invention and bring it into market. <br>
-
-			Conquer in style:(for an engineer)
-			<ol class="list-item">
-				<li class="list-text">Learn with a full heart. Be open to gain knowledge, everybody wants smart people.</li>
-				<li class="list-text">Research about that thing and know the importance of that knowledge.</li>
-				<li class="list-text">Ideas will strike, build that, because innovation and new inventions are everything that people crave for.</li> 
-				<li class="list-text">Make a business plan. You will already know people from technology field, hire them.</li>
-				<li class="list-text">Let your entrepreneurial approach which is blended with technical skills show colours.</li>
-				<li class="list-text">Work hard, surely you will stand out because this is an invention.</li>
-			</ol>
-			The major obstacle is competition. But when a business is made out of technical invention it will get the required attention and market. Make the best use of time. Increase your knowledge, it can never do harm; find ways to use it and not waste it.
-
-			</div>
+            The biggest question that comes to the mind of an entrepreneur (be it a professional or an amature one) is : “How do I get funding for my idea?”. Before we answer that,let’s understand the meaning of “funding”.Funding refers to the money required to start and run a business. It is a financial investment in a company which is used for almost every aspect of the working of an idea, beginning with product development to the sales and marketing upto the recovery of profit.</br>
+            So, coming back to the question, how to get funding? Here are some steps you should follow to get the best out of your search for funding</br></br>
+            <b>FORMULATE THE NEED FOR FUNDS</b></br></br>
+            For this, have a detailed financial and business plan ready before approaching the investors.The major areas that require funding include: 
+                <ul class="list-item">
+				<li class="list-text">Product development or website/app development</li>
+				<li class="list-text">Human resource</li>
+				<li class="list-text">Raw materials</li>
+                <li class="list-text">Working capital</li>
+                <li class="list-text">Raw materials</li>
+                <li class = "list-text">Licenses and certification</li>
+                <li class="list-text">Marketing and sales</li>
+                <li class="list-text">Admin and office development</li>
+                </ul>
+            This way you would have precise numbers with you.</br></br>
+            UNDERSTAND THE DIFFERENT MODES OF FUNDING</br>
+            There are three modes of funding: Equity funding, Debt funding and Grants.</br>
+            1.<b>Equity funding</b>: This is the type of funding where the investor is more involved in the business model and has a goal greater than just earning some profit. Such investors may prefer to involve themselves in the decision making process and there is no concept of repayment of the invested money though the investor has a share in the profit. Examples of equity fund investors are: Self financing (bootstrapping),Family and friends,Venture Capitalists,Angel Investors,Incubators and Accelerators,Crowdfunding.</br>
+            2.<b>Debt Funding</b>: Requires the invested funds to be repaid with interest within a stipulated time period. They have very little or no involvement in the decision making of the startups. Sources include:</br>
+                i. Banks and Non-Banking Financial institutions - they provide pre designed loan programs to startups based on various categories.</br>
+                ii. Government loan schemes; These are less sought after ones but can actually prove to be beneficial as the govt. Provides a number of perks to young and budding startups. Ex. CGTMSE, Mudra Loan and StartUp India.</br>
+            3.<b>Grants</b>: If you are planning on running a startup related to Charity and Social Work, then grants are the best way to raise funding as they dont seek any repayment or share in profit or rights in decision making.</br></br>
+            GET GOING ! HERE’S A LIST OF STAGEWISE FUNDING SOURCES FOR YOUR IDEA</br></br>
+            <b>IDEATION</b></br>
+            Also known as the Pre-Seed stage, this is that point when all you have is an idea that you wish to bring into action. The amounts of funds that you require at this stage is usually small.Following funding sources are preferred at this stage:</br>
+            1. BOOTSTRAPPING: Simply put, self-funding. You may use your bank savings to give a push to your plan if you have enough resources.The risk factor is high but if you are confident enough,it can prove to be a good idea.</br>
+            2. FRIENDS AND FAMILY: Seeking help from family proves to be quite helpful as they don’t demand a huge equity(profit sharing) and also don’t pressurise you for an early repayment.Also, a good load of well wishes comes complimentary :)</br>
+            3. PITCHING EVENTS : Just like our very own Startup Conclave, a number of events , completely dedicated to funding and supporting budding startups are organised at times and if you are worthy enough these events can prove to be of great help !</br></br>   
+            <b>VALIDATION</b></br>
+            This is the point where you have tested your idea on smaller, basic grounds and wish to enter the ‘Market’.The funding sources utilized at this stage are:</br>
+            1. Angel Investors: They invest their money into high potential startups in return for equity. India Angel Network is a good example of this type.</br>
+            2. Crowdfunding:This can prove to be highly effective if your idea is strong enough to gain attention from a larger crowd. Online platforms like KICKSTARTER and INDIEGOGO have made it butter-smooth to raise a truckload of funds for your startups.</br>
+            3. Govt. Loan Schemes: Here comes a very safe and secure funding source for your startup.The Govt. provides collateral-free loan schemes to young entrepreneurs which include projects like Startup India and Mudra Loan.</br></br>
+            <b>EARLY TRACTION AND SCALING</b></br>
+            That stage where your idea is no more just an idea, it is a fully functioning startup that’s also generating some revenue! This is when you need to take a bigger step and scale up your funds so that you can make appreciable amounts of profits.</br>
+            1. Venture Capital and Debt Funds: VC’s usually have a set of rules and criteria that they use for investment. They demand equity in return and also actively participate in mentorship and (sometimes) decision making of your company.</br>
+            2. Banks/NBFCs : Provide formal loans with higher rates of interest. Many entrepreneurs prefer loans over equity as the startup has already started generating traction and revenues. So, profit sharing doesn’t seem like a good idea at this stage.</br>
+            3. Partnership: A very witty move, if you can find just the right business partner for scaling up your business.But be careful, the risk involved here is very high.</br></br>
+            CONCLUSION</br>
+            The answer to our question is; To get your startup funded you should inspect it at each and every step and make a detailed plan of where and how you are going to use these funds. Be ready with a detailed business plan, and simply follow the steps we have listed for you !!</br></br>
+            REFERENCE</br><a href = https://www.startupindia.gov.in/content/sih/en/looking_for_funding.html>www.startupindia.gov.in/content/sih/en/looking_for_funding</a></br>    
+            </div>
 			<!-- Editor's Column-->
 			<br>
 			<h5 class="editedby">Edited By:</h5>
@@ -153,6 +167,7 @@
 				</a>
 			</div>
 			<br>
+
 			<!-- SHARE ICON -->
 			<span style="padding: 10px 20px; color: #f8f9fa ; background-color: #000000; border-radius: 50px; font-size: 18px; font-family: 'Montserrat';">SHARE</span>
 			<hr class="hr">
@@ -160,7 +175,7 @@
 			<div class="share">
             <ul class="soc">
                 <li>
-                    <a class="icon-share email" href="mailto:?body=Hey,%20look%20at%20this%20blog%0Ahttps://www.ecellvnit.org/blog/techno-and-e-ship.php" title="Email" target="_blank">
+                    <a class="icon-share email" href="mailto:?body=Hey,%20look%20at%20this%20blog%0Ahttps://www.ecellvnit.org/blog/Skill-to-success.php" title="Email" target="_blank">
                         <div class="ir"><svg viewbox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"></path></svg></div>
                     </a>
                 </li>
@@ -235,9 +250,7 @@
 		</div>
 	</div>-->
 	<!-- Suggestions Cards/Tiles -->
-	
 	<!--?php include("suggest-tiles.php");?>-->
-	
 	<!---------------------------- FOOTER START ------------------------------------------->
    <footer class="g-bg-color--dark">
 

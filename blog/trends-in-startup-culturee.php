@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<!-- displays site properly based on user's device -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Technology and Entrepreneurship</title>
+	<title>Trend in Startup culture</title>
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
 
@@ -47,7 +47,7 @@
 <body>
 	<!--<header>
 		<?php /*include 'header.php';*/
-		?>
+				?>
 	</header>-->
 	<nav class="navbar navbar-dark navbar-expand-sm">
       <div class="container">
@@ -75,10 +75,10 @@
 	</div>
 	<div id="heading-of-blog">
 		<!-- Date and Heading of Blog here -->
-		<div id="head"><span style="font-size: 22px; color: rgba(34, 193, 195, 1);"><i class="fas fa-calendar-alt"></i>  </span><time datetime="2020-08-27" id="date">18th October, 2020</time><br>Technology and Entrepreneurship: The Unbeatable Combination</div>
+		<div id="head"><span style="font-size: 22px; color: rgba(34, 193, 195, 1);"><i class="fas fa-calendar-alt"></i>  </span><time datetime="2020-08-27" id="date">20th December, 2020</time><br>Trends in Startup Culture</div>
 	</div>
 	<div class="img">
-		<img src="img/b-1.jpg" alt="Flower" title="" class="content-img">
+		<img src="img/culturee-02.jpg" title="" class="content-img">
 	</div>
 	<div class="content">
 		<!-- Image related to content of blog -->
@@ -87,55 +87,35 @@
 			<hr class="hr">
 			<div class="author">
 				<!-- Author profile image Here -->
-				<img src="img/writer/rashmi.jpg" class="profile-img">
+				<img src="img/writer/saransh.jpg" class="profile-img">
 				<!-- Author Name -->
-				<p>Rashmi Hegde</p>
+				<p>Saransh Mittal</p>
 				<!-- Linkedin Account Link -->
-				<a href="https://www.linkedin.com/in/rashmi-hegde-1502b5148/" class="icon linkedin" title="LinkedIn" target="_blank">
+				<a href="https://www.linkedin.com/in/saransh-mittal-67b862189/" class="icon linkedin" title="LinkedIn" target="_blank">
 					<svg viewBox="0 0 512 512">
 						<path
 							d="M186.4 142.4c0 19-15.3 34.5-34.2 34.5 -18.9 0-34.2-15.4-34.2-34.5 0-19 15.3-34.5 34.2-34.5C171.1 107.9 186.4 123.4 186.4 142.4zM181.4 201.3h-57.8V388.1h57.8V201.3zM273.8 201.3h-55.4V388.1h55.4c0 0 0-69.3 0-98 0-26.3 12.1-41.9 35.2-41.9 21.3 0 31.5 15 31.5 41.9 0 26.9 0 98 0 98h57.5c0 0 0-68.2 0-118.3 0-50-28.3-74.2-68-74.2 -39.6 0-56.3 30.9-56.3 30.9v-25.2H273.8z" />
 					</svg>
 				</a>
-				<!-- Quoted Text Here -->
-			<blockquote class="blockquote quote-text">
-				<i>"Believe in miracles, but do not rely on them."</i>
-			</blockquote>
-			<!--<div class="quote-auth">-Elon Musk</div>-->
-			<br><br>
-			<!-- <hr class="hr"> -->
 			</div>
-			<br><br>
-			<!-- Blog Content Here -->
+			<!-- Quoted Text Here -->
+			<!--blockquote class="blockquote quote-text">
+				<i>"Practise like you have never won, perform like you have never lost"</i>
+			</blockquote-->
+			<!--<div class="quote-auth">-Elon Musk</div>-->
 			<br>
 			<hr class="hr">
-
+			<!-- Blog Content Here -->
 			<div class="main-text">
-			Let us decode this, starting it raw. Technology is defined as the application of scientific knowledge for practical purposes in industries. Entrepreneurship is defined as the process of designing, launching and running a new business. Two different worlds, two different career paths but one motive-money, innovation and problem solving.<br><br>
-
-			Apart from engineering there are various other fields from where business students come. Talking about IIMs, 75% are from engineering background and among these 30-35% are from NITs and IITs i.e the best students in the field of technology. Well before moving further, let us look at some philosophical lines which one has surely encountered in his/her life:
-			<ul class="list-item">
-				<li class="list-text">“Failing is the stepping stone towards success.”</li>
-				<li class="list-text">“All our dreams can come true if we have the courage to pursue them.”</li>
-				<li class="list-text">“Knowledge without action is meaningless.”</li>
-			</ul>
-
-			Well, well sounds great right? But they are words said after achieving something and our meant to soothe our short term failures. When talking about real ideas, innovation, finance etc., who is the most eligible person to have these qualities? Yes, a technologist or better said an engineer. An engineer is well versed in technology than anybody else. He/She has problem solving qualities, ability to work during odd hours, find practical shortcuts to most tasks given and many more. Students from other field, have limited ideas for a new product. They can’t have an engine making company, drone designing company, application with artificial intelligence and machine learning, new chemicals for perfumes etc. unless they are dependent on someone. All their ideas can be implemented by engineers but not vice-versa.<br>
-
-			Accept it or not but marketing, communication skills, economics can be learned side by side. The rate at which the world is transforming, the technical demands can only be fulfilled by an Engineer-Entrepreneur. People who have ended up doing engineering are mostly not by choice. Many of them have joined just because of parental pressure. But on a very personal note I would like to add-now that you are a part of this, make the best use of this. Develop all the skills and sharpen them which the course offers, it is something which will definitely make you stand out. Innovate, think and stay updated. Although we are tagged as geeks, nerds, boring or tasteless, we can’t defy the fact that the world is interesting because of us. Social media, cars, buildings, vehicles, robots etc. it is we who have kept them alive in this society. Look at the potential we have. When we imagine a futuristic world we think of - robots all around, no-fuel vehicles, hi-tech appliances, personalised digital world, maybe compact devices etc. This is brought into picture by tech-freaks. And someone having good knowledge about this and he/she has entrepreneurial skills as well will surely make an invention and bring it into market. <br>
-
-			Conquer in style:(for an engineer)
-			<ol class="list-item">
-				<li class="list-text">Learn with a full heart. Be open to gain knowledge, everybody wants smart people.</li>
-				<li class="list-text">Research about that thing and know the importance of that knowledge.</li>
-				<li class="list-text">Ideas will strike, build that, because innovation and new inventions are everything that people crave for.</li> 
-				<li class="list-text">Make a business plan. You will already know people from technology field, hire them.</li>
-				<li class="list-text">Let your entrepreneurial approach which is blended with technical skills show colours.</li>
-				<li class="list-text">Work hard, surely you will stand out because this is an invention.</li>
-			</ol>
-			The major obstacle is competition. But when a business is made out of technical invention it will get the required attention and market. Make the best use of time. Increase your knowledge, it can never do harm; find ways to use it and not waste it.
-
-			</div>
+            A lot of new startup founders struggle to devote time to define their culture from the beginning, only to come to the sad realization that trends in culture certainly have an impact on the operational side of business. Seasoned founders and CEOs who believe there is room for culture, experience less stress as they grow. With a huge advancement in technology and ease in finding sources for finance, more people especially the youth are showing major interest towards the new startup culture. Startups work in a transparent environment and they aim at improving the way one serves the customers. So the growing urge of doing something new and different amongst youngsters is shaping the world of today as well as tomorrow.</br></br>
+            With the start of new decade, one of the most asked question is:</br></br>
+            <b>What startup trends are going to shape the next decade?</b></br></br> 
+            1. <b>Bursting myths about startups</b>:  The image of the tech startup founder in the 2010s as a laid-back, jean wearing entrepreneur of Silicon Valley could be on the way out. One should not run a startup taking it as just another career step or thinking that it will look cool as it comprises lot of hard work. Too many founders created a business for the wrong reasons—penalizing those founders with good ideas. The penalty of too many failing founders ends in a reluctance, from the client side as well as investors, to trust new startups.</br>
+            2. <b>Capital efficiency</b>: Investment rounds have risen steadily over the last few years, with average seed valuations reaching a median of between $7m and $11m in the first quarter of 2019, making these businesses more akin to the Series A startups in the past. In many cases, a lot of capital has been wasted on ineffective business models and unsuitable founders. As such, in 2020, VCs will increasingly be looking for strong unit economics, underlying profitability and a good grasp of the fundamentals before making significant investments. Customer acquisition strategies will be key to attain the higher quality growth and a lower burn rate that investors are looking for.</br> 
+            3. <b>‘Internet of Things’ in the spotlight for investment and security</b>: IoT has entered every area of our lives. While the focus up to now has largely been on lifestyle solutions, we can notice an increasing number of professional and industrial applications being adopted, ranging from healthcare to logistics and manufacturing. This will spark even greater VC interest, alongside a renewed focus on solutions that keep these billions of network entry points secure. While the IoT could be transformative for people and businesses, it will also come with new risks, as connected devices are a hacker's dream because by accessing the weakest technology in the chain, they can infiltrate wider networks. So, with the new possibilities of the IoT, will also come new concerns, and businesses should make sure they have appropriate security measures and protocols in place.</br>  
+            4. <b>A comeback of offline brand building</b>: Most startups we witness today have become obsessed with online marketing, due to its ability to target huge audiences cost-effectively, with the help of growing volumes of data. But, as the costs involved in digital tactics increasingly eat into startup ROI, and as audiences become savvier about the thousands of messages being flung at them from all angles, offline is gradually reasserting itself as a way for brands to differentiate themselves from the competition. With the tightening of online privacy regulations, such as GDPR, and increased focus on non-legal marketing practices, live business events, conferences and meetups can regain their throne and become more powerful as a way to build new relations and grow commercial activities.</br></br>
+			But that doesn’t mean that online marketing is going away. In fact, consumers are expecting an even more faultless customer experience from digital services, expecting them to anticipate and respond to their quick needs. Consumers can increasingly expect to be able to have quick, useful interactions with brands during decisive or impulsive moments. So most of new startups are continuously working on being consumer friendly trying to be there when they need them. They are trying to build tools that people start to rely on and build into their habits.</br>
+            </div>
 			<!-- Editor's Column-->
 			<br>
 			<h5 class="editedby">Edited By:</h5>
@@ -153,6 +133,7 @@
 				</a>
 			</div>
 			<br>
+
 			<!-- SHARE ICON -->
 			<span style="padding: 10px 20px; color: #f8f9fa ; background-color: #000000; border-radius: 50px; font-size: 18px; font-family: 'Montserrat';">SHARE</span>
 			<hr class="hr">
@@ -160,7 +141,7 @@
 			<div class="share">
             <ul class="soc">
                 <li>
-                    <a class="icon-share email" href="mailto:?body=Hey,%20look%20at%20this%20blog%0Ahttps://www.ecellvnit.org/blog/techno-and-e-ship.php" title="Email" target="_blank">
+                    <a class="icon-share email" href="mailto:?body=Hey,%20look%20at%20this%20blog%0Ahttps://www.ecellvnit.org/blog/Skill-to-success.php" title="Email" target="_blank">
                         <div class="ir"><svg viewbox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"></path></svg></div>
                     </a>
                 </li>
@@ -235,9 +216,7 @@
 		</div>
 	</div>-->
 	<!-- Suggestions Cards/Tiles -->
-	
 	<!--?php include("suggest-tiles.php");?>-->
-	
 	<!---------------------------- FOOTER START ------------------------------------------->
    <footer class="g-bg-color--dark">
 

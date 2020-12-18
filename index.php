@@ -95,16 +95,16 @@
         <div class="view">
           <!-- <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(6).jpg" alt="Second slide"> -->
           <a href="blog/Skill-to-success.php">
-          <img class="d-block w-100" src="blog/img/carousel image 2-05.jpg" alt="Second slide">
+          <img class="d-block w-100" src="blog/img/funding-02.jpg" alt="Second slide">
             </a>
           <div class="mask rgba-black-strong"></div>
         </div>
         <div class="carousel-caption c1">
 
-          <h3 class="h3-responsive text-left mt-0"><a href="blog/Skill-to-success.php">Skill to Success</a></h3>
-          <p class = "text-left mt-1 d-lg-block d-md-block d-sm-none desktop-only">The most important skill to succeed in life is 'attitude' as can be seen in the case of Kambli and Tendulkar. Even though Kambli had a more impressive start to his career it was Tendulkar who eventually ended up making his name.It's the right mindset that brings the right attitude which eventually leads to success</br>
+          <h3 class="h3-responsive text-left mt-0"><a href="blog/Skill-to-success.php">Startup Funding</a></h3>
+          <p class = "text-left mt-1 d-lg-block d-md-block d-sm-none desktop-only">The biggest question that comes to the mind of an entrepreneur (be it a professional or an amature one) is : “How do I get funding for my idea?”.Before we answer that,let’s understand the meaning of “funding”.Funding refers to  the money required to start and run a business. It is a financial investment in a company which is used for almost every aspect of the working of an idea, beginning</br>
           <a href = "blog/Skill-to-success.php">Read more</a></p>
-          <p class = "text-left mt-1 d-none d-sm-block d-md-none d-xl-none mobile-only">The most important skill to succeed in life is 'attitude' as can be seen in the case of Kambli and Tendulkar. Even though Kambli had a more impressive start to his career it was Tendulkar...</br>
+          <p class = "text-left mt-1 d-none d-sm-block d-md-none d-xl-none mobile-only">The biggest question that comes to the mind of an entrepreneur (be it a professional or an amature one) is : “How do I get funding for my idea?”.Before we answer that...</br>
           <a href = "blog/Skill-to-success.php">Read more</a></p>
 
         </div>
@@ -114,15 +114,15 @@
         <div class="view">
           <!-- <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(9).jpg" alt="Third slide"> -->
           <a href="blog/techno-and-e-ship.php">
-          <img class="d-block w-100" src="blog/img/carousel 3-05.jpg" alt="Third slide">
+          <img class="d-block w-100" src="blog/img/bmc-02.jpg" alt="Third slide">
         </a>
           <div class="mask rgba-black-slight"></div>
         </div>
         <div class="carousel-caption c2">
-          <h3 class="h3-responsive text-left mt-0"><a href="blog/techno-and-e-ship.php">Technology and Entrepreneurship</a></h3>
-          <p class = "text-left mt-1 d-lg-block d-md-block d-sm-none desktop-only">Let us decode this, starting it raw. Technology is defined as the application of scientific knowledge for practical purposes in industries. Entrepreneurship is defined as the process of designing, launching and running a new business. Two different worlds.</br>
+          <h3 class="h3-responsive text-left mt-0"><a href="blog/techno-and-e-ship.php">Receipe For BMC</a></h3>
+          <p class = "text-left mt-1 d-lg-block d-md-block d-sm-none desktop-only">Still pondering on how/why/what about your Business Model Canvas. Why not consider cooking one for yourself? One can add their own flavours to anything to give the desired taste. Scale your ideas, blend them properly and finally bake them suitably. What is a BMC? BMC stands for Business Model Canvas. Business Model Canvas is a strategic management and lean startup template for developing</br>
           <a href = "blog/techno-and-e-ship.php">Read more</a></p>
-          <p class = "text-left mt-1 d-lg-none d-sm-block d-md-none d-xl-none mobile-only">Let us decode this, starting it raw. Technology is defined as the application of scientific knowledge for practical purposes in industries. Entrepreneurship is defined as the process of...</br>
+          <p class = "text-left mt-1 d-lg-none d-sm-block d-md-none d-xl-none mobile-only">Still pondering on how/why/what about your Business Model Canvas. Why not consider cooking one for yourself? One can add their own flavours to anything to give ...</br>
           <a href = "blog/techno-and-e-ship.php">Read more</a></p>
           </div>
 
@@ -160,7 +160,7 @@
           <div class="row">
             <div class="col-10">
               <figure class="article-footer">
-                <img class="profile-photo" src="https://media-exp1.licdn.com/dms/image/C4E03AQHB1Dn-bE3b-w/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=yFjsnGO5h24Yy_DIy8D00B5JJEaUB1wCLVoGMC17lgI" alt="author-Michelle's profile">
+                <img src="blog/img/writer/rashmi.jpg" alt="author-Michelle's profile" class="profile-photo">
                 <figcaption>
                   <p>Rashmi Hegde<br>
                     <time datetime="2020-06-28">18th October, 2020</time>
@@ -234,7 +234,7 @@
           <div class="row">
             <div class="col-10">
               <figure class="article-footer">
-                <img class="profile-photo" src="https://media-exp1.licdn.com/dms/image/C5103AQHc78ZH8kPaUA/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=lwWfT5Ukk8qd899Py3c0oGlkBinc-BoEo-3S4Xw54_4" alt="author-Michelle's profile">
+                <img class="profile-photo" src="blog/img/writer/harshvardhan.jpg" alt="author-Michelle's profile">
                 <figcaption>
                   <p>Harshvardhan Sikarwar<br>
                     <time datetime="2020-06-28">18th October, 2020</time>
@@ -369,7 +369,229 @@
         </div>
       </div>
     </div>
+
+
+    <div class="blog-card jumbotron p-4 p-md-5 text-black rounded bg-light">
+      <div class="row">
+        <div class="col-md-5">
+          <!-- <img class="blog-image" alt="cat and dog" src="https://cdn.pixabay.com/photo/2016/01/19/17/41/friends-1149841_960_720.jpg"> -->
+          <img class="blog-image" alt="cat and dog" src="blog/img/fundingg-02.jpg">
+        </div>
+
+        <div class="blog-desc col-md-7 ml-auto my-auto pt-lg-0 pt-4">
+          <div class="row">
+            <div class="col-10">
+              <figure class="article-footer">
+                <img class="profile-photo" src="blog/img/writer/vipashvi.jpg" alt="author-Michelle's profile">
+                <figcaption>
+                  <p>Vipashvi<br>
+                    <time datetime="2020-12-20">20th December, 2020</time>
+                  </p>
+                </figcaption>
+              </figure>
+            </div>
+            <div class="col-2 share-button">
+              <button type="button" class="btn btn-outline-dark" data-toggle="modal" data-target="#share_post">
+                <i class="fas fa-share"></i>
+              </button>
+            </div>
+          </div>
+
+          <!---------------------------- SHARE ICON Start ------------------------------->
+
+          <!-- Button trigger modal -->
+
+          <div class="modal fade" id="share_post" tabindex="-1" aria-labelledby="share_post_label" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <!-- <div class="share-btn-container container"> -->
+                  <div class="sharable-content">
+
+                    <a href="#" class="facebook-btn">
+                      <i class="fab fa-facebook"></i>
+                    </a>
+
+                    <a href="#" class="twitter-btn">
+                      <i class="fab fa-twitter"></i>
+                    </a>
+
+                    <a href="#" class="pinterest-btn">
+                      <i class="fab fa-pinterest"></i>
+                    </a>
+
+                    <a href="#" class="linkedin-btn">
+                      <i class="fab fa-linkedin"></i>
+                    </a>
+
+                    <a href="#" class="whatsapp-btn">
+                      <i class="fab fa-whatsapp"></i>
+                    </a>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!------------------------------Share Icon End---------------------------->
+          <a href="blog/startup-funding.php">
+            <h1 class="display-4">Startup Funding</h1>
+          </a>
+          <p class="lead my-3">The biggest question that comes to the mind of an entrepreneur (be it a professional or an amature one) is : “How do I get funding for my idea?”. Before we answer that,let’s understand the meaning of “funding”.Funding refers to the money required to start and...</p>
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="blog-card jumbotron p-4 p-md-5 text-black rounded bg-light">
+      <div class="row">
+        <div class="col-md-5">
+          <!-- <img class="blog-image" alt="cat and dog" src="https://cdn.pixabay.com/photo/2016/01/19/17/41/friends-1149841_960_720.jpg"> -->
+          <img class="blog-image" alt="cat and dog" src="blog/img/alumni page-02.jpg">
+        </div>
+
+        <div class="blog-desc col-md-7 ml-auto my-auto pt-lg-0 pt-4">
+          <div class="row">
+            <div class="col-10">
+              <figure class="article-footer">
+                <img src="blog/img/writer/rashmi.jpg" class="profile-photo">
+                <figcaption>
+                  <p>Rashmi Hedge<br>
+                    <time datetime="2020-12-20">20th December, 2020</time>
+                  </p>
+                </figcaption>
+              </figure>
+            </div>
+            <div class="col-2 share-button">
+              <button type="button" class="btn btn-outline-dark" data-toggle="modal" data-target="#share_post">
+                <i class="fas fa-share"></i>
+              </button>
+            </div>
+          </div>
+
+          <!---------------------------- SHARE ICON Start ------------------------------->
+
+          <!-- Button trigger modal -->
+
+          <div class="modal fade" id="share_post" tabindex="-1" aria-labelledby="share_post_label" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <!-- <div class="share-btn-container container"> -->
+                  <div class="sharable-content">
+
+                    <a href="#" class="facebook-btn">
+                      <i class="fab fa-facebook"></i>
+                    </a>
+
+                    <a href="#" class="twitter-btn">
+                      <i class="fab fa-twitter"></i>
+                    </a>
+
+                    <a href="#" class="pinterest-btn">
+                      <i class="fab fa-pinterest"></i>
+                    </a>
+
+                    <a href="#" class="linkedin-btn">
+                      <i class="fab fa-linkedin"></i>
+                    </a>
+
+                    <a href="#" class="whatsapp-btn">
+                      <i class="fab fa-whatsapp"></i>
+                    </a>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!------------------------------Share Icon End---------------------------->
+          <a href="blog/Skill-to-success.php">
+            <h1 class="display-4">Receipe For BMC</h1>
+          </a>
+          <p class="lead my-3">Still pondering on how/why/what about your Business Model Canvas. Why not consider cooking one for yourself? One can add their own flavours to anything to give the desired taste. Scale your ideas,blend them properly and finally bake them suitably...</p>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="blog-card jumbotron p-4 p-md-5 text-black rounded bg-light">
+      <div class="row">
+        <div class="col-md-5">
+          <!-- <img class="blog-image" alt="cat and dog" src="https://cdn.pixabay.com/photo/2016/01/19/17/41/friends-1149841_960_720.jpg"> -->
+          <img class="blog-image" alt="cat and dog" src="blog/img/culturee-02.jpg">
+        </div>
+
+        <div class="blog-desc col-md-7 ml-auto my-auto pt-lg-0 pt-4">
+          <div class="row">
+            <div class="col-10">
+              <figure class="article-footer">
+                <img src="blog/img/writer/saransh.jpg" class="profile-photo">
+                <figcaption>
+                  <p>Saransh Mittal<br>
+                    <time datetime="2020-12-20">20th December, 2020</time>
+                  </p>
+                </figcaption>
+              </figure>
+            </div>
+            <div class="col-2 share-button">
+              <button type="button" class="btn btn-outline-dark" data-toggle="modal" data-target="#share_post">
+                <i class="fas fa-share"></i>
+              </button>
+            </div>
+          </div>
+
+          <!---------------------------- SHARE ICON Start ------------------------------->
+
+          <!-- Button trigger modal -->
+
+          <div class="modal fade" id="share_post" tabindex="-1" aria-labelledby="share_post_label" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <!-- <div class="share-btn-container container"> -->
+                  <div class="sharable-content">
+
+                    <a href="#" class="facebook-btn">
+                      <i class="fab fa-facebook"></i>
+                    </a>
+
+                    <a href="#" class="twitter-btn">
+                      <i class="fab fa-twitter"></i>
+                    </a>
+
+                    <a href="#" class="pinterest-btn">
+                      <i class="fab fa-pinterest"></i>
+                    </a>
+
+                    <a href="#" class="linkedin-btn">
+                      <i class="fab fa-linkedin"></i>
+                    </a>
+
+                    <a href="#" class="whatsapp-btn">
+                      <i class="fab fa-whatsapp"></i>
+                    </a>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!------------------------------Share Icon End---------------------------->
+          <a href="blog/trends-in-startup-culturee.php">
+            <h1 class="display-4">Trends in Startup Culture</h1>
+          </a>
+          <p class="lead my-3">A lot of new startup founders struggle to devote time to define their culture from the beginning, only to come to the sad realization that trends in culture certainly have an impact on the operational side of business. Seasoned founders and CEOs who believe...</p>
+
+        </div>
+      </div>
+    </div>
   </div>
+
 
 
   <!---------------------------- FOOTER START ------------------------------------------->

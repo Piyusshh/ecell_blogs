@@ -87,7 +87,7 @@
 			<hr class="hr">
 			<div class="author">
 				<!-- Author profile image Here -->
-				<img src="https://media-exp1.licdn.com/dms/image/C5103AQHc78ZH8kPaUA/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=lwWfT5Ukk8qd899Py3c0oGlkBinc-BoEo-3S4Xw54_4" class="profile-img">
+				<img src="img/writer/harshvardhan.jpg" class="profile-img">
 				<!-- Author Name -->
 				<p>Harshvardhan Sikarwar</p>
 				<!-- Linkedin Account Link -->
@@ -218,53 +218,7 @@
 		</div>
 	</div>-->
 	<!-- Suggestions Cards/Tiles -->
-	<!-- <div class="album py-5 bg-light">
-		<div class="container">
-
-			<div class="row">
-				<div class="col-md-4">
-					<div class="card mb-4 shadow-sm">
-						<img class="bd-placeholder-img card-img-top" src="img/cards.jpg" alt="">
-						<div class="card-body">
-							<h4 class="card-title">Title</h4>
-							<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-							<div class="d-flex justify-content-between align-items-center">
-								<h6 class="text-primary">22 July 2020</h6>
-								<h6>Person Name</h6>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="card mb-4 shadow-sm">
-						<img class="bd-placeholder-img card-img-top" src="img/cards.jpg" alt="">
-						<div class="card-body">
-							<h4 class="card-title">Title</h4>
-							<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-							<div class="d-flex justify-content-between align-items-center">
-								<h6 class="text-primary">22 July 2020</h6>
-								<h6>Person Name</h6>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="card mb-4 shadow-sm">
-						<img class="bd-placeholder-img card-img-top" src="img/cards.jpg" alt="">
-						<div class="card-body">
-							<h4 class="card-title">Title</h4>
-							<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-							<div class="d-flex justify-content-between align-items-center">
-								<h6 class="text-primary">22 July 2020</h6>
-								<h6>Person Name</h6>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div> -->
-	
+	<!--?php include("suggest-tiles.php");?>-->
 	<!---------------------------- FOOTER START ------------------------------------------->
    <footer class="g-bg-color--dark">
 
