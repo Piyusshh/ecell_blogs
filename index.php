@@ -101,9 +101,9 @@
         </div>
         <div class="carousel-caption c1">
 
-          <h3 class="h3-responsive text-left mt-0"><a href="blog/Skill-to-success.php">Startup Funding</a></h3>
+          <h3 class="h3-responsive text-left mt-0"><a href="blog/startup-funding.php">Startup Funding</a></h3>
           <p class = "text-left mt-1 d-lg-block d-md-block d-sm-none desktop-only">The biggest question that comes to the mind of an entrepreneur (be it a professional or an amature one) is : “How do I get funding for my idea?”.Before we answer that,let’s understand the meaning of “funding”.Funding refers to  the money required to start and run a business. It is a financial investment in a company which is used for almost every aspect of the working of an idea, beginning</br>
-          <a href = "blog/Skill-to-success.php">Read more</a></p>
+          <a href = "blog/startup-funding.php">Read more</a></p>
           <p class = "text-left mt-1 d-none d-sm-block d-md-none d-xl-none mobile-only">The biggest question that comes to the mind of an entrepreneur (be it a professional or an amature one) is : “How do I get funding for my idea?”.Before we answer that...</br>
           <a href = "blog/Skill-to-success.php">Read more</a></p>
 
